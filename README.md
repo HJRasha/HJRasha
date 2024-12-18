@@ -15,7 +15,7 @@ Here are some of the skills and tools I bring to the table:
 
 ### Programming Languages:  
 - **C, C++, C Programming**  
-- **Python **  
+- **Python**  
 
 ### Embedded Systems:  
 - **Microcontroller Programming:** Arduino, ESP32  
