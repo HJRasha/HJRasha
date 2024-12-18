@@ -1,6 +1,4 @@
-# Hi there! 👋 
-
-# 👋 Hello, I'm Hasnin Jerin Rasha  
+# Hi there! 👋  I'm Hasnin Jerin Rasha  
 
 🎓 **Electrical & Computer Engineering Graduate**  
 Graduating with a Bachelor’s degree in Electrical & Computer Engineering from **Rajshahi University of Engineering & Technology**, I have built a strong foundation in both theoretical and practical aspects of electrical systems and computer engineering. 
